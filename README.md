@@ -20,6 +20,7 @@ npm run dev
 
 <br />
 Una vez hemos terminado se ejecuta el siguiente comando para crear el paquete final.
+
 ```
 npm run build
 ```
