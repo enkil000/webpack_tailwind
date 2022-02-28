@@ -1,0 +1,131 @@
+@media (max-width: 639px) {
+	body {
+		overflow-x: hidden;
+	}
+	body:before {
+		content: 'XS';
+		background: #cc8e21;
+		display: block;
+		width: 40px;
+		color: #ffffff;
+		position: fixed;
+		bottom: 0px;
+		left: 0px;
+		font-size: 14px;
+		line-height: 14px;
+		padding: 5px 10px;
+		font-family: 'Montserrat', Arial, sans-serif !important;
+		z-index: 1000;
+	}
+}
+
+@media (min-width: 640px) {
+	body {
+		overflow-x: hidden;
+	}
+
+	body:before {
+		content: 'SM';
+		background: #8521cc;
+		display: block;
+		width: 40px;
+		color: #ffffff;
+		position: fixed;
+		bottom: 0px;
+		left: 0px;
+		font-size: 14px;
+		line-height: 14px;
+		padding: 5px 10px;
+		font-family: 'Montserrat', Arial, sans-serif !important;
+		z-index: 1000;
+	}
+}
+
+@media (min-width: 768px) {
+	body {
+		overflow-x: hidden;
+	}
+
+	body:before {
+		content: 'MD';
+		background: #21a2cc;
+		display: block;
+		width: 40px;
+		color: #ffffff;
+		position: fixed;
+		bottom: 0px;
+		left: 0px;
+		font-size: 14px;
+		line-height: 14px;
+		padding: 5px 10px;
+		font-family: 'Montserrat', Arial, sans-serif !important;
+		z-index: 1000;
+	}
+}
+
+@media (min-width: 1024px) {
+	body {
+		overflow-x: hidden;
+	}
+
+	body:before {
+		content: 'LG';
+		background: #871a1a;
+		display: block;
+		width: 40px;
+		color: #ffffff;
+		position: fixed;
+		bottom: 0px;
+		left: 0px;
+		font-size: 14px;
+		line-height: 14px;
+		padding: 5px 10px;
+		font-family: 'Montserrat', Arial, sans-serif !important;
+		z-index: 1000;
+	}
+}
+
+@media (min-width: 1280px) {
+	body {
+		overflow-x: hidden;
+	}
+
+	body:before {
+		content: 'XL';
+		background: #d800ff;
+		display: block;
+		width: 40px;
+		color: #ffffff;
+		position: fixed;
+		bottom: 0px;
+		left: 0px;
+		font-size: 14px;
+		line-height: 14px;
+		padding: 5px 10px;
+		font-family: 'Montserrat', Arial, sans-serif !important;
+		z-index: 1000;
+	}
+}
+
+@media (min-width: 1536px) {
+	body {
+		overflow-x: hidden;
+	}
+
+	body:before {
+		content: '2XL';
+		background: #42caa8;
+		display: block;
+		width: 40px;
+		color: #ffffff;
+		position: fixed;
+		bottom: 0px;
+		left: 0px;
+		font-size: 14px;
+		line-height: 14px;
+		padding: 5px 10px;
+		font-family: 'Montserrat', Arial, sans-serif !important;
+		z-index: 1000;
+	}
+}
+
