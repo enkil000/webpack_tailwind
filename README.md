@@ -3,9 +3,11 @@
  Proyecto inicial con webpack y tailwind.
 <br />
  ### NOTAS:
+
 <br />
 Contiene la configuración básica trabajar con javascript y tailwind en proyectos (php, 4D).
 Descargar el zip y descromprimirlo. 
+
 <br />
 Ejecutar el siguiente comando para instalar todas las depencias necesarias para el proyecto.
 ```
