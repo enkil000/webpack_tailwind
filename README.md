@@ -1,10 +1,10 @@
 # webpack Starter
 
- Proyecto inicial con webpack.
+ Proyecto inicial con webpack y tailwind.
 <br />
  ### NOTAS:
 <br />
-Sólo contiene la configuración básica para javascript y babel
+Contiene la configuración básica trabajar con javascript y tailwind en proyectos (php, 4D)
 
 ```
 npm install
